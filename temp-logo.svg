@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2796268"
-     inkscape:cx="224.36226"
+     inkscape:cx="228.32612"
      inkscape:cy="590.82487"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -54,57 +54,62 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g4354"
-       transform="translate(0.62384862,0.52206679)"
-       inkscape:export-filename="/Users/2ws/temp-logo.png"
-       inkscape:export-xdpi="86.813652"
-       inkscape:export-ydpi="86.813652">
-      <text
-         transform="scale(0.90321068,1.1071614)"
-         sodipodi:linespacing="125%"
-         id="text3336"
-         y="400.98022"
-         x="105.88998"
-         style="font-style:normal;font-weight:normal;font-size:44.28645706px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.90250397px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#ff7900;fill-opacity:1"
-           y="400.98022"
-           x="105.88998"
-           id="tspan3338"
-           sodipodi:role="line"><tspan
-             id="tspan4350"
-             style="font-size:52.5px">CC</tspan><tspan
-             id="tspan4314"
-             style="font-size:42.90250397px;fill:#000000">LA</tspan></tspan></text>
-      <text
-         transform="scale(0.90321068,1.1071614)"
-         sodipodi:linespacing="125%"
-         id="text4338"
-         y="400.7337"
-         x="225.09467"
-         style="font-style:normal;font-weight:normal;font-size:44.28645706px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
-           y="400.7337"
-           x="225.09467"
-           id="tspan4340"
-           sodipodi:role="line"><tspan
-             id="tspan4352"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">@</tspan><tspan
-             id="tspan4342"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#000000">Doane</tspan></tspan></text>
+       id="g4376"
+       transform="matrix(1.1333436,0,0,1.188202,-27.742553,-72.004058)"
+       inkscape:export-filename="/Users/2ws/projects/GitHub/doane-ccla.github.io/images/temp-logo.png"
+       inkscape:export-xdpi="56.076515"
+       inkscape:export-ydpi="56.076515">
+      <g
+         inkscape:export-ydpi="86.813652"
+         inkscape:export-xdpi="86.813652"
+         inkscape:export-filename="/Users/2ws/temp-logo.png"
+         transform="translate(0.62384862,0.52206679)"
+         id="g4354">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:44.28645706px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="162.53593"
+           y="358.01776"
+           id="text3336"
+           sodipodi:linespacing="125%"
+           transform="scale(0.90321068,1.1071614)"><tspan
+             sodipodi:role="line"
+             id="tspan3338"
+             x="162.53593"
+             y="358.01776"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#ff7900;fill-opacity:1"><tspan
+               id="tspan4372"
+               style="font-size:25px">CC</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#000000"
+               id="tspan4314">LA</tspan></tspan></text>
+        <text
+           inkscape:transform-center-y="1.219651"
+           inkscape:transform-center-x="7.6228186"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:44.28645706px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="162.57217"
+           y="338.21783"
+           id="text4338"
+           sodipodi:linespacing="125%"
+           transform="scale(0.90321068,1.1071614)"><tspan
+             sodipodi:role="line"
+             id="tspan4340"
+             x="162.57217"
+             y="338.21783"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#000000;fill-opacity:1">Doane</tspan></text>
+      </g>
     </g>
     <rect
-       style="fill:none;fill-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.89384675;stroke-opacity:1"
        id="rect4344"
-       width="165.87253"
-       height="59.762909"
-       x="94.522949"
-       y="393.61627"
-       ry="1.1952438"
-       inkscape:export-filename="/Users/2ws/temp-logo.png"
-       inkscape:export-xdpi="86.813652"
-       inkscape:export-ydpi="86.813652" />
+       width="109.10616"
+       height="49.106152"
+       x="128.6201"
+       y="356.45471"
+       ry="0.98211122"
+       inkscape:export-filename="/Users/2ws/projects/GitHub/doane-ccla.github.io/images/temp-logo.png"
+       inkscape:export-xdpi="56.076515"
+       inkscape:export-ydpi="56.076515" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -116,16 +121,5 @@
          id="tspan4348"
          x="156.11533"
          y="372.7117" /></text>
-    <rect
-       style="fill:none;fill-opacity:1"
-       id="rect4364"
-       width="1.465305"
-       height="1.219651"
-       x="176.72656"
-       y="422.88791"
-       ry="0.60982549"
-       inkscape:export-filename="/Users/2ws/temp-logo.png"
-       inkscape:export-xdpi="86.813652"
-       inkscape:export-ydpi="86.813652" />
   </g>
 </svg>
