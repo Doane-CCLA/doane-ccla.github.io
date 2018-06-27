@@ -1,1 +1,1 @@
-Live preview: https://wrapbootstrap.com/theme/gallaxy-responsive-multipurpose-theme-WB001MG10
+Live preview: https://wrapbootstrap.com/theme/idea-responsive-website-template-WB0DN19X0
